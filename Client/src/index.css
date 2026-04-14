@@ -1,0 +1,42 @@
+@import "tailwindcss";
+
+@layer base {
+  input[type="number"]::-webkit-outer-spin-button,
+  input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  input{
+    cursor: pointer;
+  }
+}
+
+@layer base {
+
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #b8b365 #1f2937;
+  }
+
+  ::-webkit-scrollbar {
+    width: 4px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: #1f2937;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: #b8b365;
+    border-radius: 999px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #16a34a;
+  }
+
+}
+.Toastify__toast {
+  font-family: inherit;
+}
+
