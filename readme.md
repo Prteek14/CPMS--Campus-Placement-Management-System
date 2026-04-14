@@ -26,7 +26,7 @@ It provides:
 
 ## 🚀 Live Demo
 
-🔗 [cpms-app.vercel.app](https://cpms-app.vercel.app) *(Replace with your deployed link)*
+🔗 [cpms-app.vercel.app](https://cpms-six.vercel.app/) 
 
 ---
 
