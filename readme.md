@@ -33,18 +33,18 @@ It provides:
 ## 📸 Screenshots
 
 ### 🏠 Home / Login Page
-![Login Page](./screenshots/login.png)
+<img align="center" src="https://raw.githubusercontent.com/Prteek14/Assets/main/signup.jpg" width="600"/>
 
 ### 📊 Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+<img align="center" src="https://raw.githubusercontent.com/Prteek14/Assets/main/admin.png" width="600"/>
 
 ### 💼 Job Listings
-![Jobs](./screenshots/jobs.png)
+<img align="center" src="https://raw.githubusercontent.com/Prteek14/Assets/main/job.png" width="600"/>
 
 ### 📄 Student Applications
-![Applications](./screenshots/applications.png)
+<img align="center" src="https://raw.githubusercontent.com/Prteek14/Assets/main/student.png" width="600"/>
 
-> 📌 Create a `screenshots/` folder in your repo and add the above images.
+
 
 ---
 
