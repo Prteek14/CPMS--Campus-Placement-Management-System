@@ -79,6 +79,7 @@ function SignUpPage() {
           placeholder="Name"
           value={formData.studentName}
           onChange={handleChange}
+          required
           className="w-full p-2 border-2 border-gray-300 rounded-md mb-4"
         />
 
@@ -89,6 +90,7 @@ function SignUpPage() {
           value={formData.email}
           onChange={handleChange}
           className="w-full p-2 border-2 border-gray-300 rounded-md mb-4"
+          required
         />
 
         <div className="relative w-full mb-4">
@@ -99,6 +101,7 @@ function SignUpPage() {
             value={formData.studentPassword}
             className="w-full p-2 pr-10 border-2 border-gray-300 rounded-md"
             onChange={handleChange}
+            required
           />
 
           <button
